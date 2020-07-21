@@ -1,0 +1,38 @@
+1.What is Python ? What are the ways to install python in your PC?
+
+Ans:
+
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+
+It is used for:
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+
+
+Ways to install python:
+ 
+ Step 1: Download the Python 3 Installer
+Open a browser window and navigate to the Download page for Windows at python.org.
+Underneath the heading at the top that says Python Releases for Windows, click on the link for the Latest Python 3 Release - Python 3.x.x. (As of this writing, the latest is Python 3.6.5.)
+Scroll to the bottom and select either Windows x86-64 executable installer for 64-bit or Windows x86 executable installer for 32-bit. (See below.)
+
+Step 2: Run the Installer
+Once you have chosen and downloaded an installer, simply run it by double-clicking on the downloaded file. Then just click Install Now. That should be all there is to it. A few minutes later you should have a working Python 3 installation on your system.
+
+
+------------------------------------------------------------------------------------------------------------------
+
+2.What are Code Environments?Types?
+
+Ans:
+A code environment is a standalone and self-contained environment to run Python or R code.
+
+Each code environment has its own set of packages. Environments are independent: you can install different packages or different versions of packages in different environments without interaction between them. In the case of Python environments, each environment may also use its own version of Python. You can for example have one environment running Python 2.7 and one running Python 3.6
+
+3 types:
+->Text editors => notepad
+->Full IDE's => spyder editor
+->Notebook environment => Jupiter notebook.
